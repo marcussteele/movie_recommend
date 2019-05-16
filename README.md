@@ -1,8 +1,8 @@
 
 # Movie Recommender
  Goal of this project is to recommend new movies to users. Come take a walk through how I predicted ratings on each movie for every user.
- ![]('img/matrix.png)
- 
+ ![]('img/matrix.png')
+
 ## Data
 We have a couple different files in the data folder.
 The first one, users.dat, contains information about users that rated movies. It has a user id, their gender, age, occupation, and zipcode.
