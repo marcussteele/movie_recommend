@@ -1,6 +1,8 @@
-# Movie Recommender
- Goal of this project is to recommend new movies to users. 
 
+# Movie Recommender
+ Goal of this project is to recommend new movies to users. Come take a walk through how I predicted ratings on each movie for every user.
+ ![]('img/matrix.png)
+ 
 ## Data
 We have a couple different files in the data folder.
 The first one, users.dat, contains information about users that rated movies. It has a user id, their gender, age, occupation, and zipcode.
@@ -9,3 +11,5 @@ There is also the training.csv file. In this file there is data on what rating a
 There is a column that has the user id and then a column that has the movie id. Then it shows there rating and a time that the user rated the movie in unix time.
 
 ## Process
+
+## Results
